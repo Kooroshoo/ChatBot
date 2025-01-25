@@ -3,8 +3,8 @@
 A basic chatbot clone that allows users to interact with a local LLM (Large Language Model). 
 
 **To get started:**
-- run a local LLM on a specified port, a simple way to run a local LLM is by downloading [LM Studio](https://lmstudio.ai/) and setting up a local network. Don’t forget to enable the CORS policy as well.
-- configure the web app settings by setting the IP address to point to your local LLM instance.
+- Run a local LLM on a specified port, a simple way to run a local LLM is by downloading [LM Studio](https://lmstudio.ai/) and setting up a local network. Don’t forget to enable the CORS policy as well.
+- Configure the web app settings by setting the IP address to point to your local LLM instance.
 
 [ChatBot Web App Demo!](https://kooroshoo.github.io/ChatBot/)
 
