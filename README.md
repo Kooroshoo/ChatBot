@@ -1,6 +1,6 @@
 # ChatBot
 
-[ChatBot Demo!](https://kooroshoo.github.io/ChatBot/))
+[ChatBot Demo!](https://kooroshoo.github.io/ChatBot/)
 
 ![chatbot](https://github.com/user-attachments/assets/90fd466d-e70a-473f-ab73-5edb0eeef16e)
 
